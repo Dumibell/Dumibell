@@ -7,4 +7,7 @@
 <img src="https://img.shields.io/badge/TailwindCss-14263D?style=for-the-badge&logo=TailwindCss&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
 </div>
+<br/><br/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDumibell&count_bg=%230068AD&title_bg=%23090050&icon=&icon_color=%23FFFFFF&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 
