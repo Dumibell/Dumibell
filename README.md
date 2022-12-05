@@ -7,6 +7,12 @@
 <img src="https://img.shields.io/badge/TailwindCss-14263D?style=for-the-badge&logo=TailwindCss&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
 </div>
+
+<br/><br/><br/>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumibell&layout=compact&theme=dark"/>
+
 <br/><br/>
 
 
