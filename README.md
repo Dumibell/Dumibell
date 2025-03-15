@@ -2,20 +2,6 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=YEJEE%20CHO&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=55&descSize=25)
 
-  ## 🌟 About Me
- > Frontend developer focused on delivering real value through code.
-  
-  💻 **Frontend Lead Developer** with experience across e-commerce, exchange platforms and healthcare services
-  
-  🧩 Expertise in **component design, state management** and building **reusable UI libraries**
-  
-  🚀 Strong focus on **performance optimization** and **SEO-friendly** implementations
-  
-  🔄 Experience implementing **Git-Flow** and establishing **code review cultures**
-  
-  🌐 Passionate about creating solutions that prioritize **user experience** and **business value**
-  
-  <br/>
   
   ## 🛠️ Tech Stack
 
