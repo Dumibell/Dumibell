@@ -1,6 +1,12 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=YEJEE%20CHO&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=55&descSize=25)
+  <!--![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=YEJEE%20CHO&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=55&descSize=25)-->
+
+  
+  <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/dumibell?pet-id=1" width="2000" height="400"/>
+</a>
+  
 
   
   ## 🛠️ Tech Stack
@@ -34,7 +40,7 @@
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dumibell&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
   
   <br/>
-  
+
   
   ## 📫 Connect With Me
   
