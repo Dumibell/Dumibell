@@ -4,9 +4,8 @@
 - I focus on what a product truly needs, quickly learn the right technologies, and continuously iterate based on user feedback  
 
 ## 🌱 Currently Interested In
+- Data-driven dashboards & complex data visualization
 - Hotel PMS / Travel Tech  
-- Data-driven dashboards & complex data visualization  
-  
 
 ## 📊 GitHub Stats
 
